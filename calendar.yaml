@@ -1,0 +1,68 @@
+title : Semester 1
+weeks :
+  - 2021-12-27 :
+      title : -3
+      type  : Christmas
+  - 2022-01-03 :
+      title : -2
+      type  : Christmas
+  - 2022-01-10 :
+      title : -1
+      type  : Induction
+  - 2022-01-17 :
+      title : Reading 0
+      type  : reading
+  - 2022-01-24 :
+      title : 1
+      type  : tuition
+  - 2022-01-31 :
+      title : 2
+      type  : tuition
+  - 2022-02-07 :
+      title : 3
+      type  : tuition
+  - 2022-02-14 :
+      title : Reading 1
+      type  : reading
+  - 2022-02-21 :
+      title : 4
+      type  : tuition
+  - 2022-02-28 :
+      title : 5
+      type  : tuition
+  - 2022-03-07 :
+      title : 6
+      type  : tuition
+  - 2022-03-14 :
+      title : Reading 2
+      type  : reading
+  - 2022-03-21 :
+      title : 7
+      type  : tuition
+  - 2022-03-28 :
+      title : 8
+      type  : tuition
+  - 2022-04-04 :
+      title : 9
+      type  : tuition
+  - 2022-04-11 :
+      title : Reading 3
+      type  : reading
+  - 2022-04-18 :
+      title : Reading 4
+      type  : reading
+  - 2022-04-25 :
+      title : 10
+      type  : tuition
+  - 2022-05-02 :
+      title : 11
+      type  : tuition
+  - 2022-05-09 :
+      title : 12
+      type  : tuition
+  - 2022-05-16 :
+      title : Reading 5 
+      type  : reading
+  - 2022-05-23 :
+      title : Reading 6 
+      type  : reading
