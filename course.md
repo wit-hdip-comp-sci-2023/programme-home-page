@@ -1,4 +1,4 @@
-# Higher Diploma in Computer Science 2022
+# Higher Diploma in Computer Science 2023
  
  The ONLINE Higher Diploma in Science in Computer Science is a 24-month ICT Conversion Course designed to allow honours graduates from non-computing disciplines to acquire the industry-relevant ICT and software development skills, expertise and practical experience required to become suitable candidates for employment in the ICT domain in general and in software development in particular. 
 
