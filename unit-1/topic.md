@@ -1,1 +1,1 @@
-Semester One
+Semester One: January - June 2023

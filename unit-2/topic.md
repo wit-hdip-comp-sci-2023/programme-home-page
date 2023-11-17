@@ -1,1 +1,2 @@
-Semester 2: June-December 2020
+Semester Two: June - December 2023
+
