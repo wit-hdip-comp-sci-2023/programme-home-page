@@ -4,7 +4,7 @@ icon:
   color: 009656
 ---
 
-# Workshop One
+# Workshop Three
 
 
-induction · structure · schedules · handbook
+Friday January 12th, 2024
