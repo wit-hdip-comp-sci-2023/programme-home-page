@@ -8,6 +8,6 @@ icon:
 
 ---
 
-Web Development II
+Web Development 2
 
 Javascript · node · express · git · github · glitch
